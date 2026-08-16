@@ -6,10 +6,11 @@ It runs locally in the browser, so compared text stays in the current session in
 
 ## Online tool
 
-Use the [DH Diff online tool](https://deerhnt.github.io/dh-diff/) to compare text directly in your browser. No account or server-side comparison service is required.
+Use the [DH Diff - Diff Viewer Online tool](https://deerhnt.github.io/dh-diff/) to compare text directly in your browser. No account or server-side comparison service is required.
 
 ## Features
 
+- Diff Viewer.
 - Live comparison of two text inputs.
 - Side-by-side, line-by-line, and inline views.
 - Line, word, character, and sentence comparison modes.
