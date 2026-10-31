@@ -6,8 +6,8 @@ DH Tools is a collection of browser-based tools for comparing, transforming, and
 
 | Tool | Overview | Online tool | Documentation |
 | --- | --- | --- | --- |
-| DH Diff | Compare text with side-by-side, line-by-line, and inline views, then copy or download a unified patch. | [Open DH Diff](https://deerhnt.github.io/dh-diff/) | [README](dh-diff/README.md) |
-| DH Text Converter | Join or split lines, convert delimiters, remove duplicates, sort and clean text, and replace or extract text with regular expressions. | [Open DH Text Converter](https://deerhnt.github.io/dh-text-converter/) | [README](dh-text-converter/README.md) |
+| DH Diff | Compare text with side-by-side, line-by-line, and inline views, then copy or download a unified patch. | [DH Diff](https://deerhnt.github.io/dh-diff/) | [README](dh-diff/README.md) |
+| DH Text Converter | Join or split lines, convert delimiters, remove duplicates, sort and clean text, and replace or extract text with regular expressions. | [DH Text Converter](https://deerhnt.github.io/dh-text-converter/) | [README](dh-text-converter/README.md) |
 
 ## Getting Started
 
